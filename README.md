@@ -1,2 +1,2 @@
 # stepik
-test project for stepik course 
+"Мой первый репозиторий"
